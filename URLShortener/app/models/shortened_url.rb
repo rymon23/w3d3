@@ -1,0 +1,3 @@
+class ShortenedURL < ApplicationRecord
+  
+end

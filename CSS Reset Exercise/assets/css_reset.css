@@ -1,0 +1,22 @@
+html, body, form, h1, h2, h3, img, ol, ul, input, label, footer, header, section, aside, nav, figcaption, h4, a, article, span, div { 
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+body {
+  line-height: 1.5;
+}
+
+ol, ul {
+  list-style: none;
+} */
+
+img {
+  width: 100%
+}
+
+

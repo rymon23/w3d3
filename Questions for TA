@@ -1,0 +1,13 @@
+1. Any reason why pry-rails gem is listed twice in the Gemfile?
+2. Do the underlying sql queries get run every time on call?
+3. why belongs_to for prequisites?  can't courses have multiple prerequisites AND be prequisites for multiple courses?
+4. can we use the same name ("prerequisites") in both our belongs_to and has_many assoc. definitions?
+
+5. What actions have we taken with our most recent migration?
+6. Have we migrated our migration?
+7. What actions are we to take with our most recent migration?
+8. Where do we specify columns with "t.<insert column name>"?
+9. Do we need to specify just one timestamp column in our migration(s)?
+10. Does Rails then just know to crate two timestamps columns (i.e. "update" and "create"?)
+11. If we haven't specified a timestamps column in our create migration, what do we do?  How do we include it if we're running a add_columns migration? 
+
